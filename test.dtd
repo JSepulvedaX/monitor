@@ -1,0 +1,6 @@
+<!DOCTYPE aa
+[
+<!ELEMENT aa (bb,cc)>
+<!ELEMENT bb (#PCDATA)>
+<!ELEMENT cc (#PCDATA)>
+]>
