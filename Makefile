@@ -1,6 +1,6 @@
 CC      := gcc
 
-BFLAGS  := -Wall -I/usr/local/include/libxml2 -I/libxml
+BFLAGS  := -Wall -I/usr/local/include/libxml2
 
 AFLAGS  := -lxml2 -lpthread -lm
 
